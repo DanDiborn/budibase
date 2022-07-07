@@ -33,17 +33,7 @@
           "label": "MinIO root password",
           "default": "change-me"
         },
-		{
-          "name": "MINIO_ACCESS_KEY",
-          "label": "MinIO access key",
-          "default": "change-me"
-        },
-        {
-          "name": "MINIO_SECRET_KEY",
-          "label": "MinIO secret key",
-          "default": "change-me"
-        },
-        {
+	{
           "name": "COUCH_DB_USER",
           "default": "budibase",
           "preset": true
